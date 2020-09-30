@@ -7,22 +7,22 @@
 
       <div class="wsize2 flex-w flex-c hsize1 cd100">
         <div class="flex-col-c-m size2 how-countdown">
-          <span class="l1-txt1 p-b-9 days">35</span>
+          <span class="l1-txt1 p-b-9 days">00</span>
           <span class="s1-txt1">Days</span>
         </div>
 
         <div class="flex-col-c-m size2 how-countdown">
-          <span class="l1-txt1 p-b-9 hours">17</span>
+          <span class="l1-txt1 p-b-9 hours">00</span>
           <span class="s1-txt1">Hours</span>
         </div>
 
         <div class="flex-col-c-m size2 how-countdown">
-          <span class="l1-txt1 p-b-9 minutes">50</span>
+          <span class="l1-txt1 p-b-9 minutes">00</span>
           <span class="s1-txt1">Minutes</span>
         </div>
 
         <div class="flex-col-c-m size2 how-countdown">
-          <span class="l1-txt1 p-b-9 seconds">39</span>
+          <span class="l1-txt1 p-b-9 seconds">00</span>
           <span class="s1-txt1">Seconds</span>
         </div>
       </div>
